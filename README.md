@@ -33,15 +33,15 @@ Path to Components
 
 The entire application looks like this
 ![Screenshot](https://i1.faceprep.in/ProGrad/l5-homecomponent.png)
-![Screenshot](https://i1.faceprep.in/ProGrad/l5-addcomponent.png)
 ![Screenshot](https://i1.faceprep.in/ProGrad/l5-tripcomponent.png)
+![Screenshot](https://i1.faceprep.in/ProGrad/l5-listcomponent.png)
 
 ### PROGRESSION 1 | CREATE A HOME COMPONENT
 
 Create a home component and design it as per the screenshot shown below. The home button should display the home component and 
 
 
-![Screenshot](https://i1.faceprep.in/ProGrad/pro1.PNG)
+![Screenshot](https://i1.faceprep.in/ProGrad/)
 
 
 ### PROGRESSION 2 | Add New Random Prostars
