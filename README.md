@@ -30,7 +30,7 @@ Path to Components
 - / -> HomeComponent
 - /add -> AddComponent
 - /list -> ListComponent
-
+s3://facenow/l5-homecomponent.png
 The entire application looks like this
 ![Screenshot](https://i1.faceprep.in/ProGrad/l5-homecomponent.png)
 ![Screenshot](https://i1.faceprep.in/ProGrad/l5-tripcomponent.png)
