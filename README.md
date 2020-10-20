@@ -38,50 +38,37 @@ The entire application looks like this
 
 ### PROGRESSION 1 | CREATE A HOME COMPONENT
 
-Create a home component and design it as per the screenshot shown below. The home button should display the home component and 
+Create a home component and design it as per the screenshot shown below. The home button should display the home component and and also the total trips.
+
+![Screenshot](https://i1.faceprep.in/ProGrad/l5-homecomponent.png)
 
 
-![Screenshot](https://i1.faceprep.in/ProGrad/)
+### PROGRESSION 2 | TRIP TIME
+
+When you click the add trip button, You should display a form with with the following fields
+- date
+- place
+- type
+    - trek
+    - tropic
+    - club
+
+The data can be stored in an array
+![Screenshot](https://i1.faceprep.in/ProGrad/l5-tripcomponent.png)
 
 
-### PROGRESSION 2 | Add New Random Prostars
+### PROGRESSION 3 | BUCKET LIST
 
-In your application, create a "*Add Random Prostart* button so that every time you click on this button it adds a new random actor.
+Render the list of all the places with time and date
 
-First randomly select a prostars from the larger `prostars` array. Then add that prostar the array of 5 in your state. Don't forget to `setState()` to cause React to re-render the app.
+![Screenshot](https://i1.faceprep.in/ProGrad/l5-listcomponent.png)
 
-At the end of this iteration, your website will probably look like this:
+### Bonus | TREKS TROPICS & CLUBS
 
-![Screenshot](https://i1.faceprep.in/ProGrad/pro2.PNG)
-
-
-### PROGRESSION 3 | Sort By Name
-
-The producer asked you to add two new buttons to help them to sort their prostars. When you click on one of the buttons it should **sort the table by `name`** (alphabetically) and when click the other it should **sort by `popularity`** (highest first).
-
-Don't forget to `setState()` after you sort!
-
-This is what you may have at the end of this iteration:
-
-![Screenshot](https://i1.faceprep.in/ProGrad/pro3.PNG)
-
-### PROGRESSION 4 | Sort By Popularity
-
-The producer asked you to add two new buttons to help them to sort their prostars. When you click on one of the buttons it should **sort by `popularity`** (highest first).
-
-Don't forget to `setState()` after you sort!
-
-This is what you may have at the end of this iteration:
-
-![Screenshot](https://i1.faceprep.in/ProGrad/pro4.PNG)
-
-### Bonus | Remove Prostars
-
-The producer also would like to remove some of their prostars. Implement a "*Delete*" button on each row of your `<table>` that will let the user remove the contact they clicked.
-
-When they click, you should get the index of the array of that actor and use it to remove the contact from the array. Don't forget to `setState()` after you remove the prostars!
-
-At the end of this iteration, your web page may look like this after playing a little bit with the "*Delete*" buttons.
+Based on the selection filter out the particular type of trips.
+![Screenshot](https://i1.faceprep.in/ProGrad/l5-clubfilter.png)
+![Screenshot](https://i1.faceprep.in/ProGrad/l5-trekfilter.png)
+![Screenshot](https://i1.faceprep.in/ProGrad/l5-tropicfilter.png)
 
 ## Submission
 
