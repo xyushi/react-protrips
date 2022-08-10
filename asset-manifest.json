@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-protrips/static/css/main.78282128.css",
+    "main.js": "/react-protrips/static/js/main.50ff8a83.js",
+    "static/js/787.83d4d675.chunk.js": "/react-protrips/static/js/787.83d4d675.chunk.js",
+    "index.html": "/react-protrips/index.html",
+    "main.78282128.css.map": "/react-protrips/static/css/main.78282128.css.map",
+    "main.50ff8a83.js.map": "/react-protrips/static/js/main.50ff8a83.js.map",
+    "787.83d4d675.chunk.js.map": "/react-protrips/static/js/787.83d4d675.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78282128.css",
+    "static/js/main.50ff8a83.js"
+  ]
+}
